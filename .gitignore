@@ -9,3 +9,6 @@ dist/
 .env
 
 node_modules/.cache/gh-pages/
+
+# Visual Studio workspace files
+.vs/
