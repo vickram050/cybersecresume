@@ -46,9 +46,9 @@ export const skills: string[] = [
 export type Certification = { name: string; issuer: string; year: string; image?: string }
 export const certifications: Certification[] = [
   { name: "Cybersecurity Fundamentals", issuer: "IBM SkillsBuild", year: "Feb 2025" },
-  { name: "Software Engineering Job Simulation", issuer: "Accenture", year: "Nov 2025", image: "/f9H4CHchzrKQbnbmK_4sLyCPgmsy8DA6Dh3_8JAowuqnNHZoqjFD6_1740126322561_completion_certificate_page-0001.jpg" },
-  { name: "Cybersecurity Job Simulation", issuer: "PwC India", year: "Nov 2025", image: "/HNpZwZcuYwona2d8Y_xhih9yFWsf6AYfngd_8JAowuqnNHZoqjFD6_1762496526135_completion_certificate_page-0001.jpg" },
-  { name: "Cyber Security Associate Certification Programme", issuer: "Reliance Foundation", year: "Oct 2025", image: "/relaines_page-0001.jpg" },
+  { name: "Software Engineering Job Simulation", issuer: "Accenture", year: "Nov 2025", image: "/MynewResume/f9H4CHchzrKQbnbmK_4sLyCPgmsy8DA6Dh3_8JAowuqnNHZoqjFD6_1740126322561_completion_certificate_page-0001.jpg" },
+  { name: "Cybersecurity Job Simulation", issuer: "PwC India", year: "Nov 2025", image: "/MynewResume/HNpZwZcuYwona2d8Y_xhih9yFWsf6AYfngd_8JAowuqnNHZoqjFD6_1762496526135_completion_certificate_page-0001.jpg" },
+  { name: "Cyber Security Associate Certification Programme", issuer: "Reliance Foundation", year: "Oct 2025", image: "/MynewResume/relaines_page-0001.jpg" },
   { name: "Social Engineering & Ethical Hacking", issuer: "CapriccioSec University", year: "Aug 2025" },
   { name: "IT Service Management (ITSM) Professional", issuer: "Atlassian", year: "May 2025" },
   { name: "Advance Your Skills as an IT Help Desk Specialist", issuer: "LinkedIn", year: "May 2025" },
@@ -67,12 +67,12 @@ export const certifications: Certification[] = [
   { name: "Microsoft Certified: Azure Fundamentals", issuer: "Simplilearn", year: "Mar 2025" },
   { name: "Software Development Certification", issuer: "Microsoft", year: "Mar 2025" },
   { name: "Windows 11 for IT Support: Troubleshooting Basics", issuer: "LinkedIn", year: "Mar 2025" },
-  { name: "AI Security & Governance", issuer: "Securiti", year: "Feb 2025", image: "/securiti 1.jpg" },
-  { name: "Foundation Level Threat Intelligence Analyst", issuer: "arcX", year: "Feb 2025", image: "/acrx.jpeg" },
-  { name: "PrivacyOps Certification", issuer: "Securiti", year: "Feb 2025", image: "/securiti 2.jpg" },
+  { name: "AI Security & Governance", issuer: "Securiti", year: "Feb 2025", image: "/MynewResume/securiti 1.jpg" },
+  { name: "Foundation Level Threat Intelligence Analyst", issuer: "arcX", year: "Feb 2025", image: "/MynewResume/acrx.jpeg" },
+  { name: "PrivacyOps Certification", issuer: "Securiti", year: "Feb 2025", image: "/MynewResume/securiti 2.jpg" },
   { name: "Cybersecurity Job Simulation (Forage)", issuer: "PwC Switzerland", year: "Feb 2025" },
   { name: "Cybersecurity Analyst Job Simulation (Forage)", issuer: "Tata Group", year: "Feb 2025" },
-  { name: "Cyber Security Program (Cyber Defence, Risk, and Network Security)", issuer: "Tech Mahindra Foundation", year: "Jan 2025", image: "/tech magendra_page-0001.jpg" },
+  { name: "Cyber Security Program (Cyber Defence, Risk, and Network Security)", issuer: "Tech Mahindra Foundation", year: "Jan 2025", image: "/MynewResume/tech magendra_page-0001.jpg" },
 ]
 
 export type Metric = { label: string; value: string }
@@ -398,7 +398,7 @@ export const achievements: Achievement[] = [
     company: "TeamLease Services Pvt. Ltd",
     description: "For exceptional performance",
     date: "April 2024",
-    image: "/april.jpg",
+    image: "/MynewResume/april.jpg",
   },
   {
     icon: "🏅",
@@ -406,7 +406,7 @@ export const achievements: Achievement[] = [
     company: "TeamLease Services Pvt. Ltd",
     description: "For consistent outstanding results",
     date: "June 2024",
-    image: "/jun.jpg",
+    image: "/MynewResume/jun.jpg",
   },
   {
     icon: "🛡️",
@@ -414,6 +414,6 @@ export const achievements: Achievement[] = [
     company: "Bajaj Finance Limited",
     description: "For identifying and preventing fraud under the RSA process",
     date: "May 2024",
-    image: "/RSA.jpg",
+    image: "/MynewResume/RSA.jpg",
   },
 ]
