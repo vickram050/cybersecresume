@@ -22,8 +22,8 @@ export const profile = {
   website: "",
   linkedin: "https://linkedin.com/in/vickram-d05",
   github: "https://github.com/vickram-5",
-  resumeUrl: "/MynewResume/assets/Vickram_D Resume.pdf",
-  photo: "/MynewResume/assets/IMG_0005.png",
+  resumeUrl: "/MynewResume/Vickram_D Resume.pdf",
+  photo: "/MynewResume/IMG_0005.png",
 }
 
 export const skills: string[] = [
